@@ -6,9 +6,9 @@ Complete all of the learning paths in the series if you are preparing for **Micr
 ---
 
 ## The learning paths in the series are:
-- Part 1: Describe cloud computing
-- Part 2: Describe benefits of azure services
-- Part 3: Describe cloud service types
+- Part 1 : [Describe cloud computing ](https://github.com/Vasu10134/microsoft-azure-fundamental/blob/main/Module_1.md)
+- Part 2: [Describe benefits of azure services](https://github.com/Vasu10134/microsoft-azure-fundamental/blob/main/Module_2.md)
+- Part 3: [Describe cloud service types](https://github.com/Vasu10134/microsoft-azure-fundamental/blob/main/Module_3.md)
 ---
 
 ## Badges Earned
