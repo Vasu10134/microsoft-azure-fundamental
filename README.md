@@ -5,7 +5,7 @@ New to the cloud? **Microsoft Azure Fundamentals** is a three-part series that t
 Complete all of the learning paths in the series if you are preparing for **Microsoft Azure Fundamentals**.
 ---
 
-## The other learning paths in the series are:
+## The learning paths in the series are:
 - Part 1: Describe cloud computing
 - Part 2: Describe benefits of azure services
 - Part 3: Describe cloud service types
